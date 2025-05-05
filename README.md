@@ -1,2 +1,2 @@
-# learning GitHub
+# Learning GitHub
 Learning GitHub
