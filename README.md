@@ -1,2 +1,2 @@
-# sogs
-Standard Operating Guidlines
+# learning GitHub
+Learning GitHub
