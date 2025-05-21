@@ -6,7 +6,7 @@
 
 <?php
 echo "Hello World!";
-echo "\nWelcome to Laramie!";
+echo "Main 1\n";
 ?>
 
 </body>
