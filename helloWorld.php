@@ -7,7 +7,7 @@
 
     <?php
     echo "Hello World!";
-    echo "Main 1\n";
+    echo " - Just trying to get the hang of this\n";
     ?>
 
 </body>
